@@ -202,3 +202,9 @@ i.e By editing required and other validation like Minimumlenght, stringlenght an
 Now I verify the added rule and its a success.
 
 AND HERE WE HAVE COMPLETED THE TUTORIAL FOR THE WEB DEVELOPMENT SUCCESSFULLY
+
+2024-06-06
+1420 UTC
+In previous lecture we have created the github account.
+Today we have created github repositery and push the code on github account.
+During this process we need to authenticat from our github account to push the code 
