@@ -53,7 +53,27 @@ public static class SeedData
                     Genre = "Animated",
                     Rating = "R",
                     Price = 9.99M
-                }
+                },
+
+                 new Movie
+                 {
+                     Title = "Mulan",
+                     ReleaseDate = DateTime.Parse("2019-07-22"),
+                     Genre = "Adventures",
+                     Rating = "R",
+                     Price = 11M
+                 },
+
+
+                  new Movie
+                  {
+                      Title = "Doreamon sky utopia",
+                      ReleaseDate = DateTime.Parse("2023-03-23"),
+                      Genre = "Adventures",
+                      Rating = "R",
+                      Price = 12M
+                  }
+
 
             );
             context.SaveChanges();
